@@ -126,7 +126,7 @@ Go to left hand pane and click the Health check menu
 
 Click Health check button
 
-Configure Health Check
+Configure Health Check:
 
 1. Name: firsthealthcheck
 
