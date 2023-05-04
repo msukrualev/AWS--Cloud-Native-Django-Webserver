@@ -320,4 +320,4 @@ STEP 4: Cleaning
 Delete Instances
 Delete bucket
 Delete A records if they exist
-Delete the HEALTH CHECK
+Delete the HEALTH CHECK.
